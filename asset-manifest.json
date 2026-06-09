@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Clothing-Store/static/css/main.179219fd.css",
+    "main.js": "/Clothing-Store/static/js/main.717c8698.js",
+    "static/media/_.webp": "/Clothing-Store/static/media/_.05edda3b5af6e28d6222.webp",
+    "index.html": "/Clothing-Store/index.html",
+    "main.179219fd.css.map": "/Clothing-Store/static/css/main.179219fd.css.map",
+    "main.717c8698.js.map": "/Clothing-Store/static/js/main.717c8698.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.179219fd.css",
+    "static/js/main.717c8698.js"
+  ]
+}
